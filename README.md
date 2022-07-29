@@ -54,7 +54,8 @@ ph_dsc_mod  |  String  |  Physical description of modern parcel match.  |
 join_strgs  |  String  |  A concatenated string of all addition/block/lot combinations used by the Mapping Prejudice automated system to attempt a join to a modern parcel.  |
 geocd_addr  |  String  |  Geocoded address of parcel centroid. Hennepin County only.  |
 geocd_dist  |  Float  |  Distance (in meters) of the geocoded address point from the closest parcel polygonal boundary. A value of “0” indicates the current address point falls within the parcel boundary. Hennepin County only. |
-match_type  |  String  |  Ramsey County only. Generally, parcels are matched automatically by using addition/block/lot combinations. But in cases where manual join work is required, the user can specify what type of join was used. Options: "Automatic match", "Multiple single lots", "Partial lot", "Simple lot", "Something else"  |
+cov_type  |  String  |  Which process was used to enter the covenant. "zooniverse" or "manual"  |
+match_type  |  String  |  Ramsey County only. Generally, parcels are matched automatically by using addition/block/lot combinations. But in cases where manual join work is required, the user can specify what type of join was used. Options: "Automatic match", "Multiple single lots", "Partial lot", "Simple lot", "Plat covenant", "Something else"  |
 manual_cx  |  Boolean  |  Whether or not a user has manually corrected the Zooniverse consensus output  |
 dt_updated  |  Timestamp  |  Last change to record in database  |
 zn_subj_id  |  Integer  |  Zooniverse subject ID  |
