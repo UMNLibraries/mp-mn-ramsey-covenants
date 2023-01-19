@@ -13,6 +13,9 @@ covenants-mn-ramsey.geojson
 #### Ramsey County covenants CSV
 covenants-mn-ramsey.csv
 
+#### Ramsey County covenants Excel
+covenants-mn-ramsey.xlsx
+
 #### Hennepin County covenants compatibility GeoJSON
 Please note that the official version of the Hennepin County covenants is [published here](https://conservancy.umn.edu/handle/11299/217209). However, this file is provided in order to facilitate quicker mapping of the Hennepin County data alongside the Ramsey County data. It is a copy of the official shapefile, with fieldnames and date formats changed to match the new Ramsey County data.
 
