@@ -1,4 +1,8 @@
-### Current spatial and data files
+## DEPRECATION UPDATE March 2023
+
+This data and all new data releases from Ramsey and other counties can now be found at [https://github.com/UMNLibraries/mp-us-racial-covenants/](https://github.com/UMNLibraries/mp-us-racial-covenants/)
+
+### Previous spatial and data files
 
 Please note that these files are works in progress. Both the data and data formats are subject to change as we add covenants and refine our processes.
 
